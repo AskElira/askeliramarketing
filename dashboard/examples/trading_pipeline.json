@@ -1,0 +1,41 @@
+{
+  "pipeline": {
+    "name": "NQ Trading Pipeline",
+    "description": "Polymarket / Kalshi binary prediction & execution",
+    "agents": [
+      {
+        "name": "Alba",
+        "role": "Research",
+        "color": "cyan"
+      },
+      {
+        "name": "David",
+        "role": "Simulation",
+        "color": "yellow"
+      },
+      {
+        "name": "Vex",
+        "role": "Audit",
+        "color": "magenta"
+      },
+      {
+        "name": "Elira",
+        "role": "Decision",
+        "color": "green"
+      },
+      {
+        "name": "Steven",
+        "role": "Execute",
+        "color": "blue"
+      }
+    ]
+  },
+  "metrics": {
+    "track_cost": true,
+    "track_time": true,
+    "track_errors": true
+  },
+  "web": {
+    "port": 8888
+  }
+}

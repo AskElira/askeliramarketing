@@ -1,0 +1,31 @@
+{
+  "pipeline": {
+    "name": "Research Pipeline",
+    "description": "Lightweight 3-agent research and decision loop",
+    "agents": [
+      {
+        "name": "Alba",
+        "role": "Research",
+        "color": "cyan"
+      },
+      {
+        "name": "David",
+        "role": "Simulation",
+        "color": "yellow"
+      },
+      {
+        "name": "Elira",
+        "role": "Decision",
+        "color": "green"
+      }
+    ]
+  },
+  "metrics": {
+    "track_cost": true,
+    "track_time": true,
+    "track_errors": true
+  },
+  "web": {
+    "port": 8888
+  }
+}

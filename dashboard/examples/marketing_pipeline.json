@@ -1,0 +1,41 @@
+{
+  "pipeline": {
+    "name": "Viral Marketing Pipeline",
+    "description": "GitHub trending → tactic validation → multi-platform content",
+    "agents": [
+      {
+        "name": "Alba",
+        "role": "Scout",
+        "color": "cyan"
+      },
+      {
+        "name": "TrendAnalyzer",
+        "role": "Validation",
+        "color": "yellow"
+      },
+      {
+        "name": "Scribe",
+        "role": "Content",
+        "color": "green"
+      },
+      {
+        "name": "Lens",
+        "role": "Media",
+        "color": "magenta"
+      },
+      {
+        "name": "Pixel",
+        "role": "Interface",
+        "color": "blue"
+      }
+    ]
+  },
+  "metrics": {
+    "track_cost": true,
+    "track_time": true,
+    "track_errors": true
+  },
+  "web": {
+    "port": 8888
+  }
+}
