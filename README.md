@@ -1,6 +1,6 @@
 # AskElira Marketing - Viral Marketing Automation
 
-> **Built on the [AskElira Framework](https://github.com/jellyforex/askelira)** - Multi-agent orchestration with swarm intelligence
+> **Built on the [AskElira Framework](https://github.com/AskElira/askelira)** - Multi-agent orchestration with swarm intelligence
 
 **Automate viral marketing campaigns for ANY GitHub project.**
 
@@ -28,7 +28,7 @@ Scout trending repos → Validate tactics with AI swarm → Generate multi-platf
 
 ```bash
 # 1. Clone
-git clone https://github.com/jellyforex/askeliramarketing.git
+git clone https://github.com/AskElira/askeliramarketing.git
 cd askeliramarketing
 
 # 2. Install
@@ -141,9 +141,8 @@ Works for AI/ML projects, developer tools, SaaS products, frameworks/libraries, 
 AskElira Marketing is the marketing use case of the AskElira Framework.
 
 **Other AskElira Applications:**
-- [AskElira](https://github.com/jellyforex/askelira) — Prediction market trading (65% accuracy)
-- [AskElira Trader](https://github.com/jellyforex/AskEliraTrader) — Autonomous trading agent
-- AskElira Framework — Build your own automation
+- [AskElira Trader](https://github.com/AskElira/AskEliraTrader) — Prediction market trading (65% accuracy)
+- [AskElira Framework](https://github.com/AskElira/askelira) — Build your own automation
 
 Want to build your own? Fork the framework and adapt the 5-agent pattern to your domain (sales, research, analysis, etc.)
 
@@ -207,9 +206,9 @@ MIT License — see LICENSE
 
 ## Links
 
-- Framework: [github.com/jellyforex/askelira](https://github.com/jellyforex/askelira)
-- Trader Use Case: [github.com/jellyforex/AskEliraTrader](https://github.com/jellyforex/AskEliraTrader)
+- Framework: [github.com/AskElira/askelira](https://github.com/AskElira/askelira)
+- Trader Use Case: [github.com/AskElira/AskEliraTrader](https://github.com/AskElira/AskEliraTrader)
 
 ---
 
-Built by [@jellyforex](https://github.com/jellyforex)
+**Built with 🧠 by the [AskElira Team](https://github.com/AskElira)**
