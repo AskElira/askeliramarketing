@@ -22,3 +22,9 @@ MiroFish/
 # Personal campaign data
 data/campaigns/
 workspace/
+
+# Pip install artifacts
+=*
+node_modules/
+*.egg
+*.egg-info/
